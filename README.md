@@ -6,7 +6,7 @@ You can also choose to hide all the possible answers to make studying more chall
 
 ### App Walk-though
 
-<img src="https://imgur.com/gallery/eNJ2lP6" width=200><br>
+<blockquote class="imgur-embed-pub" lang="en" data-id="rM1Rq3t"><a href="//imgur.com/rM1Rq3t">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
